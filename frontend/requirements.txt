@@ -1,0 +1,6 @@
+requests
+streamlit
+python-dotenv
+python-docx
+reportlab
+httpx
